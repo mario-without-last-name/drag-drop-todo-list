@@ -64,11 +64,11 @@
 }
 
 .dragactive {
-  background-color: rgb(0, 221, 236);
+  background-color: rgba(0, 250, 20, 0.75);
 }
 
 .dragcomplete {
-  background-color: rgb(255, 38, 0);
+  background-color: rgba(255, 38, 0, 0.75);
 }
 
 .remove {

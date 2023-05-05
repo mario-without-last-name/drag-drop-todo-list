@@ -7,7 +7,7 @@
   flex-direction: column;
   align-items: center;
   background-image: url("../public/wood_background.jpg");
-  background-size: max(100vw, 100vh);
+  background-size: cover;
   font-family: "Neucha", cursive;
 }
 
