@@ -6,7 +6,7 @@ A To-do List project, but with Drag & Drop functionality. The npm for drag-and-d
 
 Project made by Mario (with some of my own code modifications).
 
-Project is hosted by Vercel. It can be viewed [here](https://mario-drag-drop-todo-list.netlify.app/).
+Project is hosted by Netlify. It can be viewed [here](https://mario-drag-drop-todo-list.netlify.app/).
 
 ---
 
